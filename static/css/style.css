@@ -326,9 +326,7 @@ section .column img {
     color: rgb(245, 245, 245);
 }
 
-.source-love {
-    color: var(--main-light);
-}
+ 
 
 #mobile {
     display: none;
